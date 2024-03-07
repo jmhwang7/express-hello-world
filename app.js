@@ -54,7 +54,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from awesome testing!
+      Hello from awesome another diff!
     </section>
   </body>
 </html>
