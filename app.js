@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const port = process.env.PORT || 3004;
+const port = 3004;
 
 app.get("/", (req, res) => res.type('html').send(html));
 
